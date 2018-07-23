@@ -1,0 +1,2 @@
+D:\mynameismaxz\playgrounds\BackgroundThread_Tutorial\BackgroundStuff\BackgroundStuff.csproj;x86
+D:\mynameismaxz\playgrounds\BackgroundThread_Tutorial\BackgroundThread_Tutorial\BackgroundThread_Tutorial.csproj;x86
